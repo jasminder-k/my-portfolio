@@ -25,7 +25,7 @@ const Projects = () => {
                     </div>
                     <img
                       className="img-fluid"
-                      src="assets/toyotaLogo.jpg"
+                      src="./assets/toyotaLogo.jpg"
                       alt="..."
                     />
                   </div>
@@ -46,7 +46,7 @@ const Projects = () => {
                     </div>
                     <img
                       className="img-fluid"
-                      src="assets/fondosviluppoLogo.png"
+                      src="./assets/fondosviluppoLogo.png"
                       alt="..."
                     />
                   </div>
