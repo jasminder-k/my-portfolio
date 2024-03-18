@@ -112,25 +112,25 @@ const Resume = () => {
             </section>
             <section>
               <h2 className="text-secondary fw-bolder mb-4">Education</h2>
-              <div class="card shadow border-0 rounded-4 mb-5">
-                <div class="card-body p-5">
-                  <div class="row align-items-center gx-5">
-                    <div class="col text-center text-lg-start mb-4 mb-lg-0">
-                      <div class="bg-light p-4 rounded-4">
-                        <div class="text-secondary fw-bolder mb-2">2024</div>
-                        <div class="mb-2">
-                          <div class="small fw-bolder">
+              <div className="card shadow border-0 rounded-4 mb-5">
+                <div className="card-body p-5">
+                  <div className="row align-items-center gx-5">
+                    <div className="col text-center text-lg-start mb-4 mb-lg-0">
+                      <div className="bg-light p-4 rounded-4">
+                        <div className="text-secondary fw-bolder mb-2">2024</div>
+                        <div className="mb-2">
+                          <div className="small fw-bolder">
                             Concordia University
                           </div>
-                          <div class="small text-muted">Montreal, Canada</div>
+                          <div className="small text-muted">Montreal, Canada</div>
                         </div>
-                        <div class="fst-italic">
-                          <div class="small text-muted">Bootcamp</div>
-                          <div class="small text-muted">Web Development</div>
+                        <div className="fst-italic">
+                          <div className="small text-muted">Bootcamp</div>
+                          <div className="small text-muted">Web Development</div>
                         </div>
                       </div>
                     </div>
-                    <div class="col-lg-8">
+                    <div className="col-lg-8">
                       <div>MERN stack coding bootcamp</div>
                     </div>
                   </div>
